@@ -1,1 +1,0 @@
-const s="/vue-js/images/laravel-logo.png",o="/vue-js/images/bootstrap-logo.png",g="/vue-js/images/vue-logo.png",a="/vue-js/images/php-logo.png",e="/vue-js/images/html-logo.png",p="/vue-js/images/css-logo.png",t="/vue-js/images/js-logo.png";export{s as _,o as a,g as b,a as c,e as d,p as e,t as f};
