@@ -6,7 +6,7 @@ const routes = [
     name: "Beranda",
     component: () => import("../views/index.vue"),
     meta: {
-      title: "WebisTekita | Beranda",
+      title: "WebisTekita | Solusi untuk bisnis anda.",
     },
   },
   {
